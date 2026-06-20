@@ -33,20 +33,6 @@ Built a cloud-based monitoring solution on AWS EC2 using Prometheus, Grafana, an
 
 Node Exporter → Prometheus → Grafana → Alerting
 
-## Screenshots
-
-### Grafana Dashboard
-
-(Add screenshot)
-
-### Alert Rules
-
-(Add screenshot)
-
-### Prometheus Targets
-
-(Add screenshot)
-
 ## Run the Project
 
 ```bash
